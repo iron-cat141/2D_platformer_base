@@ -6,7 +6,7 @@ from os import listdir
 from os.path import isfile, join # Dynamically load sprites from memory
 pygame.init()
 
-pygame.display.set_caption("Summer School Platformer")
+pygame.display.set_caption("Basic Platformer")
 
 
 WIDTH, HEIGHT = 1024, 600
